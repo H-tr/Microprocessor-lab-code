@@ -1,0 +1,15 @@
+
+**** Clean-only build of configuration Debug for project Lab2_ReflectanceGPIO ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 8 clean -O 
+ 
+DEL /F  "Lab2_ReflectanceGPIO.hex"  "Lab2_ReflectanceGPIO.out" 
+DEL /F "Clock.obj" "Lab2_GPIOmain.obj" "Reflectance.obj" "TExaS.obj" "startup_msp432p401r_ccs.obj" "system_msp432p401r.obj" 
+DEL /F "Clock.d" "Lab2_GPIOmain.d" "Reflectance.d" "TExaS.d" "startup_msp432p401r_ccs.d" "system_msp432p401r.d" 
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Lab2_ReflectanceGPIO\Debug\Lab2_ReflectanceGPIO.hex
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Lab2_ReflectanceGPIO\Debug\Clock.obj
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Lab2_ReflectanceGPIO\Debug\Clock.d
+'Finished clean'
+ 
+
+**** Build Finished ****

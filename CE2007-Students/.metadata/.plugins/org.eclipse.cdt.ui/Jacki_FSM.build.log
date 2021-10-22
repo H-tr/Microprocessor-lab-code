@@ -1,0 +1,15 @@
+
+**** Clean-only build of configuration Debug for project Jacki_FSM ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 8 clean -O 
+ 
+DEL /F  "Jacki_FSM.hex"  "Jacki_FSM.out" 
+DEL /F "AP.obj" "Bump.obj" "Clock.obj" "CortexM.obj" "GPIO.obj" "JackiFSMmain.obj" "LaunchPad.obj" "Motor.obj" "PWM.obj" "Reflectance.obj" "TExaS.obj" "UART0.obj" "UART1.obj" "startup_msp432p401r_ccs.obj" "system_msp432p401r.obj" 
+DEL /F "AP.d" "Bump.d" "Clock.d" "CortexM.d" "GPIO.d" "JackiFSMmain.d" "LaunchPad.d" "Motor.d" "PWM.d" "Reflectance.d" "TExaS.d" "UART0.d" "UART1.d" "startup_msp432p401r_ccs.d" "system_msp432p401r.d" 
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Jacki_FSM\Debug\Jacki_FSM.hex
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Jacki_FSM\Debug\AP.obj
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Jacki_FSM\Debug\AP.d
+'Finished clean'
+ 
+
+**** Build Finished ****

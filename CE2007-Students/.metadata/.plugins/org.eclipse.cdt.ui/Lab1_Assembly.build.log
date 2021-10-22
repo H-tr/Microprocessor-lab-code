@@ -1,0 +1,17 @@
+
+**** Clean-only build of configuration Debug for project Lab1_Assembly ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 8 clean -O 
+ 
+DEL /F  "Lab1_Assembly.hex"  "Lab1_Assembly.out" 
+DEL /F "Lab1_Assemblymain.obj" "convert.obj" "startup_msp432p401r_ccs.obj" "system_msp432p401r.obj" 
+DEL /F "startup_msp432p401r_ccs.d" "system_msp432p401r.d" 
+DEL /F "Lab1_Assemblymain.d" "convert.d" 
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Lab1_Assembly\Debug\Lab1_Assembly.hex
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Lab1_Assembly\Debug\Lab1_Assemblymain.obj
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Lab1_Assembly\Debug\startup_msp432p401r_ccs.d
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Lab1_Assembly\Debug\Lab1_Assemblymain.d
+'Finished clean'
+ 
+
+**** Build Finished ****

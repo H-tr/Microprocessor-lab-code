@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="SysTick_int_Init" key="selection"/>
+		<item value="true" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="SysTick_Init"/>
+			<item value="Wait"/>
+			<item value="SysTick"/>
+			<item value="SysTick_Wait"/>
+			<item value="pwm"/>
+			<item value="nl"/>
+			<item value="LPF"/>
+			<item value="Program18_1"/>
+		</list>
+		<list key="replacehistory">
+			<item value="SysTick_int_Init"/>
+			<item value="nr"/>
+			<item value="nc"/>
+			<item value="TxFifo0.Put"/>
+			<item value="TxFifo0.Get"/>
+			<item value="TxFifo0.Data"/>
+			<item value="TxFifo0.Size"/>
+			<item value="TxFifo0.End"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="284" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="1023" key="DIALOG_X_ORIGIN"/>
+		<item value="297" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

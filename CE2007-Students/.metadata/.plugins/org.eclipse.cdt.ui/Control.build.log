@@ -1,0 +1,15 @@
+
+**** Clean-only build of configuration Debug for project Control ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 8 clean -O 
+ 
+DEL /F  "Control.hex"  "Control.out" 
+DEL /F "ADC14.obj" "Bump.obj" "Clock.obj" "CortexM.obj" "IRDistance.obj" "LPF.obj" "Lab17_Control.obj" "LaunchPad.obj" "Motor.obj" "Nokia5110.obj" "PWM.obj" "Reflectance.obj" "SysTickInts.obj" "TA3InputCapture.obj" "TExaS.obj" "Tachometer.obj" "TimerA1.obj" "UART0.obj" "startup_msp432p401r_ccs.obj" "system_msp432p401r.obj" 
+DEL /F "ADC14.d" "Bump.d" "Clock.d" "CortexM.d" "IRDistance.d" "LPF.d" "Lab17_Control.d" "LaunchPad.d" "Motor.d" "Nokia5110.d" "PWM.d" "Reflectance.d" "SysTickInts.d" "TA3InputCapture.d" "TExaS.d" "Tachometer.d" "TimerA1.d" "UART0.d" "startup_msp432p401r_ccs.d" "system_msp432p401r.d" 
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Control\Debug\Control.hex
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Control\Debug\ADC14.obj
+Could Not Find Y:\CE2107 lab\CE2007Labs-Students-09072019\CE2007-Students\Control\Debug\ADC14.d
+'Finished clean'
+ 
+
+**** Build Finished ****
